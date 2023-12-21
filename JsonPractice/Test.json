@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "Prahlad Ray",
+  "age": 30,
+  "email": "tcgsikar1@gmail.com",
+  "address": {
+    "street": "123 Main St",
+    "city": "jaipur",
+    "mob": "12345"
+  },
+  "isStudent": false,
+  "courses": ["Mathematics", "History", "Computer Science"]
+}
