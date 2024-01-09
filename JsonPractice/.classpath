@@ -7,5 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java API/xml to json/xml-to-json-0.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Java API/xml to json/json-20150729.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
